@@ -1,10 +1,10 @@
 var itemList =
 [
-  { name: "Item 1", quantity: 10 },
-  { name: "Item 2", quantity: 20 },
-  { name: "Item 3", quantity: 30 },
-  { name: "Item 4", quantity: 40 },
-  { name: "Item 5", quantity: 50 }
+  { name: "Cookies", quantity: 10 },
+  { name: "Chips", quantity: 20 },
+  { name: "Pastry", quantity: 5 },
+  { name: "Fries", quantity: 2 },
+  { name: "Softy", quantity: 5 }
 ];
 
 (function () {
